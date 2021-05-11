@@ -5,7 +5,7 @@ UNITY INSTALLATION (WINDOWS)
 2) Through the Hub, install Unity 2020.2.2 (the version for which the projects have been developed) or later. Beware that later versions (eg. Unity 2021.1.x) may be incompatible with the projects
 
 
-MOBILE ROBOT NAVIGATION
+INSTALLATION AND SETUP
 1) on UBUNTU:
 	- Visit https://github.com/TheEngineRoom-UniGe/SofAR-Mobile-Robot-Navigation and download the ROS packages needed for the project
 	- Extract the packages to your catkin_ws
