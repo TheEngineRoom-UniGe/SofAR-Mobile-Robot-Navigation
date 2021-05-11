@@ -14,7 +14,7 @@ INSTALLATION AND SETUP
 	- Once all dependencies are resolved, do: 'roslaunch mobile_robot_navigation_project navigation.launch' to start communication with Unity (ensure the server communication is up and running, you should see the following line in the terminal 'Starting server on YOUR IP:10000')
 2) on WINDOWS:
 	- Visit https://github.com/TheEngineRoom-UniGe/SofAR-Mobile-Robot-Navigation to download the Unity project folder, extract it, then open Unity Hub and ADD the project to your projects list using the associated button.
-	- Finally, open the project
+	- Open the project
 	- In the bar on top of the screen, open the 'Robotics/ROS settings' tab and replace the 'ROS IP Address' with the IP of the machine running ROS.
 	- If the previous steps have been successful, you should be able to enter Editor mode (via the Play button) and play the simulation.
 	- Il the communication is running correctly, on UBUNTU you can echo the topics that are being exchanged between ROS and Unity.
